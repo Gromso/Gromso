@@ -1,4 +1,4 @@
-<img width="600" align="center"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRidzvzmmZrsap2nXMglh5wd0J3g9zQPxnQ&usqp=CAU" alt="java">
+<img width="600" align="center"  src="https://www.nevinainfotech.com/images/hire-java-developer.jpg" alt="java">
 <h1 align="center">Hi 👋, I'm Gromosvi Sinisa</h1>
 <h3 align="center">a junior Java developer from Serbia</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
