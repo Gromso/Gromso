@@ -1,24 +1,23 @@
-https://www.datasciencecentral.com/wp-content/uploads/2021/10/8667507462.jpeg
 <h1 align="center">Hi 👋, I'm Gromosvi Sinisa</h1>
 <h3 align="center">a junior java developer from serbia</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
+<img align="center" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gromso" alt="gromso" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gromso&label=Profile%20views&color=0e75b6&style=flat" alt="gromso" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gromso](https://github.com/Gromso)
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **gromso97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/gromoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gromoso" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sinisa gromovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sinisa gromovic" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/gromso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gromso" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sinisa-gromovic-499b46225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sinisa-gromovic-499b46225/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19863302/gromso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19863302/gromso" height="30" width="40" /></a>
 <a href="https://fb.com/sinisa gromovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sinisa gromovic" height="30" width="40" /></a>
 <a href="https://instagram.com/gr0m0vic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gr0m0vic" height="30" width="40" /></a>
 </p>
