@@ -1,6 +1,5 @@
 <img width="600" align="center"  src="https://www.nevinainfotech.com/images/hire-java-developer.jpg" alt="java">
-<h1 align="center">Hi 👋, I'm Gromovic Sinisa</h1>
-<h3 align="center">a junior Java developer</h3>
+<h1 align="center">Hi 👋, I'm a junior Java developer</h1>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
 
