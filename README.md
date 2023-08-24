@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gromso](https://github.com/Gromso)
-
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **gromso97@gmail.com**
