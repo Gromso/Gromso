@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gromso&label=Profile%20views&color=0e75b6&style=flat" alt="gromso" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**PHP
+- 🌱 I’m currently learning **JavaScript**-PHP
 
-- 💬 Ask me about **Java**C#
+- 💬 Ask me about **Java**-C#
 
 - 📫 How to reach me **gromso97@gmail.com**
 
