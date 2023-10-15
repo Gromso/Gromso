@@ -1,13 +1,13 @@
 <img width="600" align="center"  src="https://www.nevinainfotech.com/images/hire-java-developer.jpg" alt="java">
-<h1 align="center">Hi 👋, I'm a junior Java developer</h1>
+<h1 align="center">Hi 👋, I'm a junior Software Developer</h1>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gromso&label=Profile%20views&color=0e75b6&style=flat" alt="gromso" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript**PHP
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java**C#
 
 - 📫 How to reach me **gromso97@gmail.com**
 
